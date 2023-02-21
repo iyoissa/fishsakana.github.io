@@ -3,8 +3,8 @@
 
 :root {
     /* 色変更される場合は、#以降のカラーコードを変更してください IE非対応 */
-    --base-color: #13334c;
-    --link-color: #005792;
+    --base-color: #b53ac5;
+    --link-color: #56fc88;
     --linkhover-color: #fd5f00;
     --back-color: #f6f6e9;
     --border-color: #005792;
